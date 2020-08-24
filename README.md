@@ -15,7 +15,7 @@ This is the demonstration.
 
 ## How to Contribute
 
-Happy learning.
+Happy learning. Please pull this repository and then issue pull request.
 
 ## CopyRight
 
