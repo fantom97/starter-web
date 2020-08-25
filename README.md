@@ -19,4 +19,4 @@ Happy learning. Please pull this repository and then issue pull request.
 
 ## CopyRight
 
-CopyRight notice.
+CopyRight notice. All rights reserved.
